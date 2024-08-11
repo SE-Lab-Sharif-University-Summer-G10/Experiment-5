@@ -82,7 +82,7 @@ docker exec -it notes_container sh
 یک شل در ترمینال ایجاد می‌شود. با استفاده از این شل به راحتی می‌توان هر دستور دلخواهی را اجرا کرد:
 
 ![Alt text](resources/docker-arbitrary-command.png)
-
+<div dir='rtl'>
 ## پرسش‌ها
 
 ### وظایف Dockerfile، image و container
