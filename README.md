@@ -74,4 +74,5 @@ image
 imageهای
 notes-app و postgres
 استفاده کرده‌ایم.
+<img width="692" alt="Screenshot 2024-08-11 at 7 47 13 PM" src="https://github.com/user-attachments/assets/92a88230-0d07-42ea-849e-0bc72e6cffe0">
 
